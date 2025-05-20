@@ -1,1 +1,1 @@
-Camera1
+Camera*
